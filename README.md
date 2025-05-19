@@ -1,5 +1,5 @@
 # aspnet-budget-tracker
----
+
 A web application where users can
 - Log income and expenses
 - Categorize transactions
